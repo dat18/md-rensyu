@@ -1,1 +1,4 @@
-# md-rensyu
+- item1
+- item2
+- item3
+- [Ctrl]+[Shift]+[M]キーでプレビューのオンオフ
